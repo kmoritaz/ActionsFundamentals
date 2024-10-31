@@ -22,13 +22,13 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Day 1: 🚀 Getting started
 
-- [ ] Introduction and Icebreaker
-- [ ] GitHub Actions Fundamentals
-- [ ] The YAML syntax
-- [ ] Basic workflow syntax
-- [ ] Events that trigger workflow
-- [ ] Jobs and steps
-- [ ] :mag: Demo: Creating a workflow
+- [✓] Introduction and Icebreaker
+- [✓] GitHub Actions Fundamentals
+- [✓] The YAML syntax
+- [✓] Basic workflow syntax
+- [✓] Events that trigger workflow
+- [✓] Jobs and steps
+- [✓] :mag: Demo: Creating a workflow
 - [ ] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
 - [ ] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [ ] :coffee: Break
